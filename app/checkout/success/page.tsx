@@ -108,7 +108,7 @@ export default async function SuccessPage({
         href="/"
         className="inline-block rounded-lg bg-indigo-600 px-6 py-3 font-semibold text-white hover:bg-indigo-700"
       >
-        Retour a l'accueil
+        Retour a l&apos;accueil
       </Link>
     </main>
   );
